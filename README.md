@@ -1,9 +1,5 @@
 # Ableton Live 12.0.20 Suite - 免费下载 / Free Download
 
-## 下载 Ableton Live 12.0.20 Suite
-
-**Ableton Live 12.0.20 Suite** 免费提供下载，适合音乐创作和录制。
-
 ### 使用说明 / Usage Instructions
 
 - **仅限学习和个人使用：** 本软件及破解补丁仅供个人学习，非商业用途。商业使用请购买正版授权。
